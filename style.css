@@ -1,0 +1,16 @@
+.navBar{    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#81D8D5;
+    width: 1200px;
+
+}
+html{
+
+}
+.bodyContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
